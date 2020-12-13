@@ -33,7 +33,7 @@ https://budget-tracker5000.herokuapp.com/
 
 ## Contact
 
-Got any questions? Please contact me at tmhaigh@gmail.com
-View my online portfolio https://conanas.github.io/
+Got any questions? Please contact me at tmhaigh@gmail.com<br>
+View my online portfolio https://conanas.github.io/<br>
 View my LinkedIn https://www.linkedin.com/in/thomas-m-haigh/
 
