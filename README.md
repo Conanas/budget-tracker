@@ -27,3 +27,13 @@ After cloning the project to your device open a terminal in the project folder a
 
 https://budget-tracker5000.herokuapp.com/
 
+## Screenshot
+
+![Budget Tracker](./assets/screenshots/budget-tracker5000.png "Budget Tracker")
+
+## Contact
+
+Got any questions? Please contact me at tmhaigh@gmail.com
+View my online portfolio https://conanas.github.io/
+View my LinkedIn https://www.linkedin.com/in/thomas-m-haigh/
+
