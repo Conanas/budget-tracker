@@ -29,7 +29,7 @@ https://budget-tracker5000.herokuapp.com/
 
 ## Screenshot
 
-![Budget Tracker](./assets/screenshots/budget-tracker5000.png "Budget Tracker")
+![Budget Tracker](./screenshots/budget-tracker5000.png "Budget Tracker")
 
 ## Contact
 
